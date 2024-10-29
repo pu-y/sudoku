@@ -1,0 +1,17 @@
+Failed!!! 
+ 
+ max_col = 
+ 49 
+ 
+ run_time = 
+ 3644.013836 
+ 
+ once iters = 
+ 779492205 
+ 
+
+ average_time = 0.000000 
+
+ success runs = 0 
+
+ total average iters = 0.000000 
